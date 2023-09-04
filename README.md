@@ -1,6 +1,6 @@
 # ATLIQO-Telecom-Data-Analysis
 
-This project is a part of Code Basics Resume Challegne #3. 
+This project is a part of Code Basics Resume Challenge #3. 
 
 ### Scenario: 
 
